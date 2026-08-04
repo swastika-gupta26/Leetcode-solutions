@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Depth-First Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
