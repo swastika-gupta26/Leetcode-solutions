@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
