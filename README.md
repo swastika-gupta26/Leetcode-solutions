@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0078-subsets) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
