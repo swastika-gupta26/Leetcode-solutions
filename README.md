@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
