@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0152-maximum-product-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
