@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
