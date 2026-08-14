@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
