@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -126,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
