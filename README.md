@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Game Theory
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Trie
 |  |
 | ------- |
@@ -160,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Sorting
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
