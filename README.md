@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
