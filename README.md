@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
