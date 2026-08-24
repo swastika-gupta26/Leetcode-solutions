@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0740-delete-and-earn) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
