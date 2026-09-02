@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Trie
 |  |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
