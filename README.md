@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
