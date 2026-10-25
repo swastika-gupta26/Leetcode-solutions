@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1254-number-of-closed-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
