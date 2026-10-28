@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
