@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0877-stone-game) |
 | [2409-count-days-spent-together](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Longest Common Subsequence
 |  |
