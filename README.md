@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1254-number-of-closed-islands](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2596-check-knight-tour-configuration](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1048-longest-string-chain](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastika-gupta26/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Common Subsequence
 |  |
 | ------- |
